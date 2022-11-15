@@ -21,4 +21,4 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
   - URL: http://localhost:4000/api/v1/recipes
 - Recipe Detail
   - Method: GET
-  - URL: http://localhost:4000/api/v1/recipes
+  - URL: http://localhost:4000/api/v1/recipes/{id}
